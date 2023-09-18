@@ -59,5 +59,3 @@ This is a Streamlit web application for visualizing and exploring data from Phon
 ## Contact
 For any questions, support, or suggestions, feel free to contact Divahar Murugan at divahar2896@gmail.com.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
